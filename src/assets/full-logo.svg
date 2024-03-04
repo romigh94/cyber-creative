@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Lager_1" data-name="Lager 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 205.37 82.83">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c6d307;
+        stroke: #c6d307;
+        stroke-miterlimit: 10;
+        stroke-width: 6px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: Vortice-Concept, Vortice;
+        font-size: 50px;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        fill: #f4fafe;
+        font-family: Verdana-Bold, Verdana;
+        font-size: 26px;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <text transform="translate(52.44 43.75)"><tspan class="cls-2"><tspan class="cls-5" x="0" y="0">C</tspan><tspan class="cls-3" x="49.75" y="0">C</tspan></tspan><tspan class="cls-4"><tspan x="-52.44" y="31.2">CyberCreative</tspan></tspan></text>
+  <line class="cls-1" x1="2.69" y1="50.89" x2="202.69" y2="50.89"/>
+</svg>
